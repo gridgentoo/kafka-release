@@ -5,11 +5,14 @@ uReplicator Uber Engineering’s Scalable Robust Kafka Replicator Hongliang Xu, 
 https://www.youtube.com/watch?v=glx5hKGsMcs  
 
 Напишем Kafka Avro Producer на Java  
-https://www.youtube.com/watch?v=T8uJFkYIZPM  
+https://www.youtube.com/watch?v=T8uJFkYIZPM 
+
+пример написания KafkaStreams BankBalance для использования в Банке   
+https://github.com/gridgentoo/KafkaStreamBankBalance  
 
 How Uber builds reliable redeliveries and dead letter queues with Apache Kafka Mingmin Chen  
 https://www.youtube.com/watch?v=7F7RLgXrOKU  
-
+ 
 [Сделать обновление HDP & Ambari & других служб] Аудит установленных пакетов  
 https://docs.google.com/document/d/1RxK7codJ4Uvbzn10AJK_GyT1rCPtMTjoQzH3JUxj55s/  
 

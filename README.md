@@ -1,5 +1,30 @@
+Как Uber масштабировал свою Real Time инфраструктуру до триллиона событий в день, Kafka  
+https://www.youtube.com/watch?v=l3B7iUDE0Cw  
+
+uReplicator Uber Engineering’s Scalable Robust Kafka Replicator Hongliang Xu, Uber July 19, 2018  
+https://www.youtube.com/watch?v=glx5hKGsMcs  
+
+Напишем Kafka Avro Producer на Java  
+https://www.youtube.com/watch?v=T8uJFkYIZPM  
+
+How Uber builds reliable redeliveries and dead letter queues with Apache Kafka Mingmin Chen  
+https://www.youtube.com/watch?v=7F7RLgXrOKU  
+
+[Сделать обновление HDP & Ambari & других служб] Аудит установленных пакетов  
+https://docs.google.com/document/d/1RxK7codJ4Uvbzn10AJK_GyT1rCPtMTjoQzH3JUxj55s/  
+
+[Инфогра́фика сравнение Версий HDP] что нового в HDP 3.1 архитектуре (и какие версии Сервисы HDP обновлены)  
+https://docs.google.com/document/d/1_wrgl8VhExWK8fKmr6Jxv6YEPhT9jXLxejIL72xDMVw/  
+
+Архитектура ZooKeeper  
+https://www.youtube.com/playlist?list=PLrTrFnOkIFb3vwhhPF8ShsS8kNsn8emtt  
+
+Профилирование JVM для BigData  
+https://www.youtube.com/playlist?list=PLrTrFnOkIFb2Xmx_xuNYsuR0UDGqccJnI  
+
+======================================================================
 Apache Kafka
-=================
+======================================================================
 See our [web site](http://kafka.apache.org) for details on the project.
 
 You need to have [Gradle](http://www.gradle.org/installation) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
